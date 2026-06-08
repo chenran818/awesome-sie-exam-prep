@@ -42,6 +42,9 @@ New to the SIE exam? Here's your **free study plan**:
 
 ## Official FINRA Resources
 
+
+- [Courseiva SIE Practice](https://courseiva.com) — Free SIE exam-style practice questions with detailed explanations. Covers all SIE exam topics.
+
 Start here - these are directly from FINRA:
 
 | Resource | Description | Link |
