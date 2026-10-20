@@ -81,6 +81,7 @@ Practice tests and question banks:
 |----------|-------------|--------------|-----------|
 | [**OpenExamPrep SIE Practice**](https://open-exam-prep.com/practice/sie) | 100+ | Yes + AI hints | Yes |
 | [FINRA Official Practice Test](https://www.finra.org/registration-exams-ce/qualification-exams/sie-practice-test) | 75 | Yes | Yes |
+| [Lucky the Banker Free SIE Mock Exam](https://luckythebanker.com/exam/sie/practice-test) | 75 (full-length, 105-min timer) + 1,800+ question bank | Yes - written explanation for every question | Yes - no signup |
 | [Kaplan Free Quiz](https://www.kaplanfinancial.com/resources/free-practice-quiz) | 10 | Yes | No |
 | [Achievable Free Trial](https://achievable.me/exams/sie) | Limited | Yes | Trial only |
 | [Quizlet SIE Questions](https://quizlet.com/subject/sie-exam/) | Varies | Community | Yes |
