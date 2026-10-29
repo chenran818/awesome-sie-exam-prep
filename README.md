@@ -61,6 +61,7 @@ Complete study materials at no cost:
 | [**OpenExamPrep SIE Study Guide**](https://open-exam-prep.com/exams/sie) | All 4 knowledge areas | Yes - Ask AI any question | Yes - Per section |
 | [Investopedia SIE Guide](https://www.investopedia.com/securities-industry-essentials-sie-exam-702702) | Topic articles | No | No |
 | [FINRA Investor Education](https://www.finra.org/investors) | Foundational concepts | No | No |
+| [What Changed for the SIE in 2026](https://payhip.com/b/92ZpF) | 2026 rule changes with sources (gift limit, PDT, 2026 IRA/401k limits, Reg S-P) | No | No |
 
 ### What's Covered in the SIE Exam
 
